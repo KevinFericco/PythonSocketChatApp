@@ -22,3 +22,6 @@ disni saya memakai python
 - Masukkan nickname anda
 - Kemudian input message anda di textbox
 - dan kirim pesan anda makan akan muncul di bagian atas
+
+# Requierment
+pc yang bisa menjalankan python
