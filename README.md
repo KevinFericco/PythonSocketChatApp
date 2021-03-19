@@ -18,7 +18,7 @@ disni saya memakai python
 
 # Cara Menggunakan App
 
--Jalankan aplikasi
--Masukkan nickname anda
--Kemudian input message anda di textbox
--dan kirim pesan anda makan akan muncul di bagian atas
+- Jalankan aplikasi
+- Masukkan nickname anda
+- Kemudian input message anda di textbox
+- dan kirim pesan anda makan akan muncul di bagian atas
